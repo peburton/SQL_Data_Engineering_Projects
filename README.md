@@ -7,6 +7,6 @@ The following projects are a showcase of practice projects I've utilized to rein
 ## Projects
 - [1. Exploratory Data Analysis](../SQL_Data_Engineering_Projects/1_EDA/) - Job market analytics with SQL
 
-- [2. ]()
+![Project 1 Overview](/Resources/1_1_Project1_EDA.png)
 
-- [3. ]()
+SQL-driven analysis of data engineer job market trend.
